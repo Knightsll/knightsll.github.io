@@ -2,7 +2,7 @@
 layout: post
 title:  Egret Swarm Optimization Algorithm (ESOA)
 date:   2017-05-26 14:05:55 +0300
-image:  assets\images\Algorithms\ESOA\egret.jpg
+image:  assets\images\Algorithms\ESOA\egret.png
 author: Knightsll
 tags:   Algorithm
 ---

@@ -39,10 +39,7 @@ hero:
   hero-title: Hi! Researchers, Welcome To Meta-Heuristic Lab.
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-github", link: "https://github.com/Knightsll/" }
 
 #-------------------------------
 # About (Section and Page)
