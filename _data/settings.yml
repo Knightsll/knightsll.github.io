@@ -2,7 +2,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Meta-Heuristic Lab
 logo:
 author: themefisher
 description: this is meta description
@@ -13,9 +13,9 @@ copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.c
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
+  - { name: Algorithms, link: "/blog" }
+  - { name: Applications, link: "/portfolio" }
+
 
 #-------------------------------
 # Google Analytics Section
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! Researchers, Welcome To Meta-Heuristic Lab.
 
 social:
   - { icon: "ti-facebook", link: "#" }
@@ -48,10 +48,10 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: Meta-Heuristic Lab Is A Open-Access Lab For The Novel AI, Machine Learning, And Robotics Algorithms.
 
 blurb-btn-link: "/about"
-blurb-btn-name: know more
+blurb-btn-name: Learn More
 
 # About Page
 
@@ -69,19 +69,7 @@ work-process:
     icon: "assets/images/icons/print.png"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-# My Team Section
-team:
-  - title: "Jack Schenziwe"
-    image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
 
-  - title: "Julias Carlie"
-    image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
-
-  - title: "John Doe"
-    image: "assets/images/team/member-3.png"
-    designation: "Designer"
 
 #-------------------------------
 # Skills Section
@@ -189,9 +177,9 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "Robtics", type: "Robotics" }
+  - { title: "AI", type: "AI" }
+  - { title: "Meta-Heuristic", type: "Meta-Heuristic" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"

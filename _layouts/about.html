@@ -6,7 +6,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1 class="text-white font-tertiary">{{ page.title }}</h1>
+        <h1 class="text-white font-tertiary">About Lab</h1>
       </div>
     </div>
   </div>
@@ -25,31 +25,17 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-md-8">
-        {{ content }}
+        Meta-Heuristic Lab Is A Open-Access Lab For The Novel AI, Machine Learning, And Robotics Algorithms.
       </div>
       <div class="col-md-4 text-center drag-lg-top">
         <div class="shadow-down mb-4">
-          <img src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.author }}" class="img-fluid w-100 rounded-lg border-thick border-white">
+          <img src="assets\images\about\lab.jpg" alt="Meta-Heuristic Lab" class="img-fluid w-100 rounded-lg border-thick border-white">
         </div>
-        <img src="{{ site.baseurl }}/{{ page.signature }}" alt="signature" class="img-fluid">
-        <h4>{{ page.author }}</h4>
+
+        <h4>Meta-Heuristic Lab</h4>
       </div>
     </div>
   </div>
 </section>
 <!-- /about -->
 
-{% include work-process-section.html %}
-
-{% include team-section.html %}
-  
-<section class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 text-center">
-        <h2 class="section-title">My Clients</h2>
-      </div>
-    </div>
-    {% include client-slider.html %}
-  </div>
-</section>
